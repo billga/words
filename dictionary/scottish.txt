@@ -1,0 +1,378 @@
+###############################################################################
+###                                                                         ###
+###  DESCRIPTION: this is a dictionary of Scottish words                    ###
+###  KEYWORDS: words, scottish, english, dictionary.                        ###
+###                                                                         ###
+###  Input format: lines of <word><definition>, where                       ###
+###      <word> -->         letters <tab><tab> | "letters*"                 ###
+###      <definition> -->   ["[" string "]"](<def>"; ")*<def>"."            ###
+###      <def> -->          [^;]*                                           ###
+###                                                                         ###
+###  Alternate forms of words are in [...]                                  ###
+###                                                                         ###
+###############################################################################
+
+a'              all
+ablach          a dwarf; an insignificant person.
+aboon           [abune]; above; over.
+abread          abroad; in breadth.
+acquent         acquainted.
+ae              one.
+aff-lufe        off-hand; at once.
+afore           before; in front.
+aft             often.
+agley           aslant; not straight.
+ahint           behind.
+aiblins         perhaps.
+aidle           foul water.
+aik             oak.
+aiken           made of oak.
+ain             own.
+aince           once.
+airles          earnest-money; a deposit to secure a bargain.
+airm            arm.
+airn            iron.
+airt            direction; point of the compass.
+airtit          directed.
+aits            oats.
+aizle           a red ember.
+ajee            half-open; to one side.
+a'maist         almost.
+ane             one.
+aneth           beneath.
+aneuch          enough.
+antrin          occasional.
+atweel          in truth; certainly.
+atweel na       by no means.
+aucht           eight.
+aught           anything.
+auld            old.
+auld-farrant    old-fashioned.
+auld lang syne  long ago
+Auld Reekie     Edinburgh; (lit., old smokey)
+aumous          alms; a gift to a beggar.
+ava             at all; of all.
+awee            a little
+ay              yes
+ayont           beyond; behind.
+
+ba'             ball
+bailie          alderman
+bairn           child
+bairned         pregnant, made pregnant
+baith           both
+bakes           biscuits
+ballants        ballads
+ban             to swear
+bandster        a binder of sheaves
+bane            bone
+bannock         falt cake of bread
+barkit          dirtied; encrusted with dirt
+barley-bree     whiskey; (lit. juice of the barley)
+barra           a barrow
+baudrons        a generic term for a cat
+bauld           bold
+bawbee          a half penny
+bawds           hares
+beet            to feed; to warm
+begood          began
+ben             in; inner room; inside
+benmaist        innermost
+bent            coarse grass; open field of rough grass
+bere            barley
+beuk            a book
+bide            stay
+bield           shelter
+bieldy          sheltered
+big             to build
+biggs           builds
+bike            a nest; (a bummie's bike = a wasp's nest)
+bing            a heap
+birk            the birch tree
+birl            turn
+birn            burden
+birse           impudence
+bizzem          a bad girl; a randy woman
+blae            livid
+blate           bashful; shy
+blaw            to blow; to boast
+bleer           to smear
+bleeze          flame
+blether         to talk idly
+blethers        idle talk; nonsense
+blicht          blithe; happy
+blude           (or bluid); blood
+bocht           bought
+bock            to gush forth; to vomit; the sickness
+bodach          an old man
+bogle           a hobgoblin; a ghost
+bonnie          beautiful
+boo'er          a bower
+bool            a marble; to bowl
+bools           the game of bowls
+boortree        a hole; a nook
+boune           to get ready; prepare; till
+bour            a bower
+brae            slope; upper part of a hill
+braid           broad
+brander         to grill
+braw            handsome; fine; good
+brawlie         finely; very well
+braxie          a sheep that has died of disease
+bree            juice; liquid
+breeks          breeches; trousers
+breenge         to plunge forward rashly
+breist          breast
+bricht          bright
+brock           a badger
+brogue          a shoe
+brose           porridge; gruel; oatmeal and water
+bucht           a sheep-pen
+buirdly         stoutly built; broad-shouldered
+buit            a boot
+bunemaist       highest
+burn            a stream; a brook
+busk            to dress
+but-an-ben      small cottage; house with only two rooms
+but             (or bot); without; outer;
+
+caird           a tinker; a sturdy beggar
+cairn           a heaped-up pile of stones
+caller          fresh; cool
+cam             came
+canna           cannot
+cannas          canvas
+cannie          gentle
+cantie          cheerful; lively
+cantrip         a spell; a charm
+carle           an old man
+carlin          a strong old woman
+ca's            calves
+cauld           cold
+cauper          a turner
+caur            a calf; a car
+chanter         the tune-pipe of bagpipes; a single pipe for practice
+chap            to knock; to rap
+chapman         a pedlar; a packman
+cheek for chow  side by side
+cheep           chirp
+chiel           a youth
+clachan         a small village; a hamlet
+claes           clothes
+claik           (or clash); gossip
+claith          cloth
+claut           scrape; a little of anything
+claw            to scratch
+claymor         a big sword; a broadsword
+cled            clothed
+cleedin         clothing
+cleek           a hook
+cleekit         linked or hookd together; strung up
+cleekit-shalt   a pony suffering from string-halt
+clegs           gadflies
+clishmaclaver   idle conversation
+cloker          a broody hen
+cloot           the hoof
+clootie         the devil
+clout           a rag
+clud            a cloud
+coft            bought
+cog             (or coggie); a wooden dish; a small basin
+connached       abused; wasted; destroyed
+cooser          a stallion
+corbies         carrion crows; ravens
+corrie          a circular hollow on a hill-side
+coulter         plough blade
+coup            to heel over; to tip up
+coup-cairt      a tip cart
+couthie         (or couthy); kind; gentle; loving
+cowshus         cautious
+crack           a chat; a good chat
+craft           a small farm; a croft
+cranreuch       hore-frost
+cratur          creature
+creel           a basket; a shallow wicker container for fish, corn, etc.
+croun           a crown
+crouens         pieces of money
+crouse          proud; cocksure
+cruives         branches; lattice-work; fish-traps
+cuddy           a donkey or small horse
+cuif            a ninny; a blockhead
+curch           a kercheif worn on the head; a head-dress
+cutty           short
+
+dabbit          dabbed; aimed at
+dae             do
+daffin          merriment
+daimen          rare; occasional
+daith           death
+dander          wander; walk slowly
+dang            drove
+danton          subdue
+darg            work; a measure of work
+daur            dare
+deasal          sun-wise; from east to west
+deid            dead
+deil            the Devil; a devil
+dicht           to wipe
+ding            to push; to excel; to press down
+dinna           do not
+dochter         (or dother); daughter;
+doitit          stupid; bewildered
+douce           sober; prudent;
+doukit          ducked
+doun            down
+doup            the buttocks; the behind; a fag-end
+dour            stubborn
+dowie           sad; sorrowful; melancholy
+dree            to suffer; to endure
+dreid           dread
+drooth          a thirst
+drukken         drunken
+drumlie         muddy
+duddie          ragged
+dule            sorrow
+dyke            a stone dividing wall
+dyvor           a bankrupt
+
+ee              eye
+een             eyes
+eident          busy; diligent; industrious
+eizel           a red ember; hot cinder
+eldrich         ghostly; frightful
+ell             an old and now obsolete measure
+ell-wan         a measuring stick; a yard-stick
+ellys           else
+elshin          an awl
+eneuch          enough; sufficient
+ettle           to try; intent
+
+fa'             fall; try
+fae             foe
+faem            foam
+fail-dyke       stone and turf wall.
+fan'            found
+far             when
+farl            an oatcake
+farrant         fashioned
+fash            trouble; annoyance; (dinna fash yersel)
+fasheous        troublesome
+faucht          fought
+fause           false
+fay             (or fey) psychic; other-wordly
+fecht           to fight; a fight;
+feck            the greater quantity; (the feck o't - most of it).
+feckless        puny; senseless;
+ferlies         oddities; things to wonder at.
+feucht          fought
+fiere           man; comrade; friend;
+flair           floor
+flang           flung; danced wildly
+fleer           floor
+fley'd          frightened
+flit, flittin'  to move; a removal
+fl:ure          floor; to floor
+forfochen       worn out; done for; wearied
+fou, fu'        full; drunk
+frae            from
+fule            a fool; to fool; to mislead
+fur             a furrow
+fushion         pith; vigour
+fye             an exclamation signifying haste
+fye-gar         make haste; hurry to do
+fyou            a few
+
+gab             the mouth; talk (haud yer gab! - shut your mouth!)
+gabbin          talking; mouthing
+gae             go; to go
+gaed            went
+gait, gate      way; manner of doing a thing
+gane            gone
+gang            go; to go (gang yer ain gait)
+gar             make; force; compel
+garr'd          compelled
+gat             got; obtained
+gaun            going
+gear            goods; belongings; wealth
+gey, gye        very (gey-dowie - very sorrowful)
+gie             give; to give
+gied            gave
+gie's           give us; give me; (gie's't - give me it).
+gin             if
+gird            a hoop
+girse           grass
+glaikit         foolish; thoughtless
+glaives         swords.
+gleades         glowing embers; remains of a fire kept in from the night before.
+gleg            sharp; quick
+gloamin         twilight; evening
+gouans, gowans  mountain or wild daisies
+goud, gowd      gold
+grat            wept
+grauvit         cravat
+greet           to weep
+greetin'        weeping; crying
+gress           grass
+groat           an old coin, worth four pence
+guid, gude      good
+guidman         husband; master; petty title, as: The Guidman o' Ballengeich
+guid-willie-waucht      a good long drink
+
+ha'             hall
+hae             have; as a command: Hae! - Here, take this!
+hairst          harvest
+hale            whole; healthy; well
+hansel          a first gift; a gift in token of something special
+happed, happit  wrapped; covered
+harn            a coarse linen cloth
+haud            hold
+hert            heart
+het             hot
+hicht           height
+hie             high
+hirple          to walk haltingly or lamely
+hirplin'        limping
+hoast           a cough
+hod             hid
+hogg            a young castrated sheep
+hogmanay        the festival of Old Year's Night
+hosen           stockings
+hout!           an exclamation of impatience
+howes           hollows
+humpit          carried
+hurdies         the hips
+hurl            to roll over; to drive; a drive
+
+ilk, ilka       each; every
+ingle           the fire; the fireside
+intil           into; unto;
+
+Janiveer        January
+jimp            slender
+juist           just; only
+
+kail            colewort; broth; Hotchpotch soup
+kebars          rafters; tree-trunks when cut; poles
+keek            a sly look; a peep
+keel            red chalk
+kelpie          a water-horse; a demon of the lochs
+ken             to know; (ken ye ocht? - do you know anything?)
+kerne           a warring man; a fighting peasant
+kirk            church
+kirkit          churched; married in a kirk; appeared at the kirk for the
+		first time after an event
+kirn            a churn; to churn
+kist            a box; a chest; a coffin
+kittle          difficult; awkward; to tickle
+knicht          a knight
+knowe           a hillock
+kye             cows
+
+laigh           low
+laird           a landowner; (boonet-laird - a small proprieter)
+lane            lone; (ma lane - alone)
+lang syne       long since; long ago
+lanwart         urban
+lapstane        a stone on which a shoemaker beats his leather
+lauch           laugh
+lave

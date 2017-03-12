@@ -1,0 +1,22 @@
+This e-text in HTML is derived from the original file bible11.zip
+which contains a single text file of the entire King James Version Bible. 
+The text in bible11.zip was typeset beautifully by the Project Gutenberg 
+and released on Easter 1992.
+
+I took the Project Gutenberg Version, split it into individual books, and 
+converted each book to HTML format by a mostly automated procedure. 
+For a visually pleasing display of the e-text, the reader would need 
+a browser that supports table layout.
+
+I wish to thank Derek Andrew of the Project Gutenberg who graciously 
+gave his consent for this HTML Version to be put into the public domain.
+
+Please read the Free Public License associated with this e-text which is 
+in the file _license.htm.
+
+This e-text is thus put into the public domain with the fond hope
+that it will spread the Gospel to all people and that people
+might come to know the Lord Jesus Christ as their personal Saviour.
+
+M. Bala Subrahmanyam
+subra@nadc.nadc.navy.mil

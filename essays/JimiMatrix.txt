@@ -1,0 +1,74 @@
+                             SEMINAR
+
+         Jimi Hendrix meets the Giant Screaming Buddha:
+       Recreating the Sixties via Back Propagation in Time
+
+                      Garrison W. Cottrell
+                  Department of Sixties Science
+             Southern California Condominium College
+
+
+     As the Sixties rapidly recede from the cultural memory,  one
+nagging problem has been the lack of a cultural milieu that could
+produce another guitar player like Jimi Hendrix.  Recent research
+has  shown  that  part  of  the problem has been the lack of high
+microgram dosages of  LSD  due  to  the  war  on  drugs.   Recent
+advances in neural network technology have provided legal ways to
+artificially recreate and combine models of Hendrix  and  LSD  in
+recurrent  PDP  networks.  The basic idea is to train a recurrent
+back propagation network via Williams & Zipser's (1988) algorithm
+to  learn the map between musical scores of Hendrix music and the
+hand movements as recorded in various  movies.   The  network  is
+then given simulated doses of LSD and allowed to create new music
+on its own.
+
+     The first component of the model, following  (Jordan,  1988)
+is  to  have  the  network  learn  a  forward  model of the motor
+commands that drive robot hands which  play  a  guitar.   Usually
+this  is  done via allowing the network to "babble", i.e., having
+the network produce random motor outputs, allowing  it  to  learn
+the  map  between its motor outputs and the sound produced.  Once
+the network has learned the motor-acoustic map, it  may  then  be
+exposed  to  environmental  patterns corresponding to the desired
+input-output map in acoustic space.  Thus for example,  the  plan
+vector  for  the network will be a representation of the score of
+the Star Spangled Banner,  presented  a  bar  at  a  time.   Over
+several  iterations  on each bar, the teaching signal is Hendrix'
+corresponding rendition[1].  Thus the model  learns  through  the
+Jimi  Hendrix Experience.  Once the model is trained, we now have
+a neural network model, Jimi Matrix, that can sight read.  We can
+now  see how Hendrix would have played the hits of today.  One of
+the first songs we plan to apply this to is the smash hit, "Don't
+Worry, Be Happy".
+
+     It has long been suspected that the ability to produce  maps
+of this sort is due to some hidden degrees  of  freedom[2].   One
+form  of  an  extra  degree of freedom is Lysergic Diethyl Amide,
+better known as LSD.  Current models of the effect  of  LSD  only
+produce simple forms of doubly periodic patterns on visual cortex
+that correspond to so-called "form constants" perceived by people
+while hallucinating (Ermentrout & Cowan, 1979).  However, most of
+these studies were  done  on  subjects  who  only  ingested  .125
+Haas[3].  Much more complicated, cognitive  level  hallucinations
+occur  at  higher  doses.   In order to model the Giant Screaming
+Buddha hallucination that occurs about 45 minutes after ingesting
+1  Haas, new models are necessary.  The basic idea is that 1 Haas
+produces oscillations in association cortex that then  feed  back
+on  area  17,  producing the visual sensation of the oft-reported
+mythic figure.  Applying this to the Jimi Matrix model, it is  no
+wonder  that "six turned out to be nine" (Hendrix, 1967).  By the
+judicious introduction of simulated  LSD  into  the  Jimi  Matrix
+model,  we  will use this as a "chaotic cognitive generator".  We
+estimate that with this technique, we can  produce  an  album  of
+all-new Hendrix material every eight hours on a Sun-4.
+____________________
+   [1]"Excess degrees of freedom" does not begin to describe this
+map.   Hence  radical  new techniques will be necessary.  This is
+another area where simulated LSD comes in.
+   [2]As with hidden units, the big question is where people hide
+their extra degrees of freedom.  Our research suggests that  Hen-
+drix' were actually hidden in guitar strings pre-soaked in lyser-
+gic acid. This accounts his habit  of  playing  guitar  with  his
+tongue, and destroying the evidence afterward.
+   [3]The Haas is a unit of acid dose. 1 Haas == 6 hits, or about
+750 micrograms.
